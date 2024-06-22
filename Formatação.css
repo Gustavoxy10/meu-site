@@ -1,11 +1,15 @@
 p{
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #05f7e2;
+    color: #000000;
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
 
+}
+body{
+    background: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG80NWNmaHc5NnFjbTlxcWt0eTBjcDJpMTczcnFieWJiZXg0dmtpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BHNfhgU63qrks/giphy.webp')  no-repeat center center fixed;
+    background-size: cover;
 }
